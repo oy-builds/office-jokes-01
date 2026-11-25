@@ -1,7 +1,6 @@
-[![make.fun · u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
-[![rank](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/oy-builds/office-jokes-01/rank.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
-[![reward](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/oy-builds/office-jokes-01/reward.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+[![make.fun · u-markk-st-one-line-office-jokes-a51f2bcc](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+[![rank](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/oy-builds/office-jokes-01/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)
+[![reward](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/oy-builds/office-jokes-01/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)
 
-# Exceeds Expectations
-
-A one-line office joke for make.fun's "Make the AI Judge Laugh: Office Jokes" bounty. The program in `main.ts` writes the joke from `entry.txt` to `/output/entry.txt`, where the house gate and judge read it.
+# One-Line Office Jokes
+A tiny TypeScript program that writes a single one-line joke about office life — a late-Friday call about work-life balance — to /output/entry.txt.
